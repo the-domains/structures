@@ -1,0 +1,23 @@
+name: Structures
+favicon: null
+layout_spectrum: 0.6449143218342215
+typography_spectrum: 0.6832802533172071
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.06344324955716729
+  lightness: 0.4945297969970852
+  saturation: 0.8214317574165761
+  rhythmicContrast: 0.40616568666882813
+purpose: []
